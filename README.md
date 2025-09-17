@@ -25,8 +25,8 @@ It includes a **Streamlit UI** for easy interaction where you can:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/image-to-video-lipsync.git
-cd image-to-video-lipsync
+git clone [https://github.com/WerewolfHunters/vro-buddy-Image2Lipsync.git](https://github.com/WerewolfHunters/vro-buddy-Image2Lipsync.git)
+cd vro-buddy-Image2Lipsync
 ```
 
 ### 2. Create and activate virtual environment
@@ -36,11 +36,11 @@ python -m venv venv
 ```
 
 - Activate venv
-  - On Windows
+1) On Windows
 ```bash
 venv\Scripts\activate
 ```
-  - On macOS/Linux
+2) On macOS/Linux
 ```bash
 source venv/bin/activate
 ```
@@ -107,6 +107,7 @@ Pull requests are welcome! Please open an issue first to discuss any major chang
 
 ## 📜 License
 This project is licensed under the MIT License.
-git clone https://github.com/your-username/image-to-video-lipsync.git
-cd image-to-video-lipsync
+git clone [https://github.com/WerewolfHunters/vro-buddy-Image2Lipsync.git](https://github.com/WerewolfHunters/vro-buddy-Image2Lipsync.git)
+cd vro-buddy-Image2Lipsync
+
 
