@@ -9,6 +9,7 @@ It includes a **Streamlit UI** for easy interaction where you can:
 - Select voice gender (`male` / `female`)
 - Generate and view the resulting video directly in the browser
 
+For video demo: [click here](https://drive.google.com/file/d/1X-sStm1hWVksRlZECMDxCLwZyLuhVBO5/view?usp=sharing)
 ---
 
 ## 🚀 Features
@@ -108,4 +109,5 @@ Pull requests are welcome! Please open an issue first to discuss any major chang
 
 ## 📜 License
 This project is licensed under the MIT License.
+
 
