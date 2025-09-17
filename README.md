@@ -36,11 +36,11 @@ python -m venv venv
 ```
 
 - Activate venv
--> On Windows
+  - On Windows
 ```bash
 venv\Scripts\activate
 ```
--> On macOS/Linux
+  - On macOS/Linux
 ```bash
 source venv/bin/activate
 ```
@@ -62,7 +62,7 @@ streamlit run main.py
 ```
 Now open 👉 http://localhost:8501
 
---
+---
 
 ## 🐳 Run with Docker
 
@@ -77,7 +77,7 @@ docker run -p 8501:8501 --env HEYGEN_API_KEY=your_api_key_here lipsync-app
 ```
 Open 👉 http://localhost:8501
 
---
+---
 
 ## 📂 Project Structure
 ```bash
@@ -89,7 +89,7 @@ Open 👉 http://localhost:8501
 └── README.md                 # Project documentation
 ```
 
---
+---
 
 ## 🔮 Future Plans
 - Explore other AI video & audio tools to enhance customization
@@ -98,14 +98,15 @@ Open 👉 http://localhost:8501
 - Deploy on cloud platforms (Render, AWS, Hugging Face Spaces)
 - Build an API wrapper for programmatic video generation
 
---
+---
 
 ## 🤝 Contributing
 Pull requests are welcome! Please open an issue first to discuss any major changes.
 
---
+---
 
 ## 📜 License
 This project is licensed under the MIT License.
 git clone https://github.com/your-username/image-to-video-lipsync.git
 cd image-to-video-lipsync
+
