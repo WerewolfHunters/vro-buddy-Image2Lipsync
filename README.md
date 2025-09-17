@@ -25,7 +25,7 @@ It includes a **Streamlit UI** for easy interaction where you can:
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/WerewolfHunters/vro-buddy-Image2Lipsync.git](https://github.com/WerewolfHunters/vro-buddy-Image2Lipsync.git)
+git clone https://github.com/WerewolfHunters/vro-buddy-Image2Lipsync.git
 cd vro-buddy-Image2Lipsync
 ```
 
@@ -107,7 +107,3 @@ Pull requests are welcome! Please open an issue first to discuss any major chang
 
 ## 📜 License
 This project is licensed under the MIT License.
-git clone [https://github.com/WerewolfHunters/vro-buddy-Image2Lipsync.git](https://github.com/WerewolfHunters/vro-buddy-Image2Lipsync.git)
-cd vro-buddy-Image2Lipsync
-
-
