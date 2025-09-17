@@ -55,6 +55,7 @@ Export your HeyGen API Key in the `.env` file:
 ```bash
 HEYGEN_API_KEY="your_api_key"
 ```
+Refer this doc: [click here](https://docs.google.com/document/d/1h1udFsGgkmIPpE8Xb6zC3hXNo2r8jPkvlVj81HyoNZc/edit?usp=sharing) to get your heygen_api_key
 
 ### 5. Run the Streamlit app
 ```bash
@@ -107,3 +108,4 @@ Pull requests are welcome! Please open an issue first to discuss any major chang
 
 ## 📜 License
 This project is licensed under the MIT License.
+
